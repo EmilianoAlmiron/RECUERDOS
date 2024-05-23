@@ -1,8 +1,24 @@
 .Texto{
     border: 1px solid;
+
 }
 
 .Texto2{
     border: 1px solid;
+}
+
+.carrucel{
+    display: block;
+    margin: auto;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    
+}
+
+
+.body{
+    background-color: rgba(0, 0, 0, 0.728);
+    color: rgb(255, 255, 255);
 }
 
