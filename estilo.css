@@ -1,5 +1,5 @@
 .body{
-    background-color: rgba(0, 0, 0, 0.728);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-family: cursive;
 }
@@ -8,10 +8,8 @@
     padding: 5%;
     margin: 2%;
     border-radius: 2%;
-}
-
-.Texto2{
-    border: 1px solid;
+    background-color: rgb(253, 253, 253);
+    color: black;
 }
 
 .carrucel{
