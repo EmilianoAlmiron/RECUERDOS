@@ -1,6 +1,13 @@
+.body{
+    background-color: rgba(0, 0, 0, 0.728);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
 .Texto{
     border: 1px solid;
-
+    padding: 5%;
+    margin: 2%;
+    border-radius: 2%;
 }
 
 .Texto2{
@@ -11,14 +18,18 @@
     display: block;
     margin: auto;
     width: 100%;
-    align-content: center;
-    align-items: center;
-    
+}
+
+.img1{
+    width: 50%;
+}
+
+.card{
+    align-items: center; 
+}
+p{
+    font-size: 130%;
 }
 
 
-.body{
-    background-color: rgba(0, 0, 0, 0.728);
-    color: rgb(255, 255, 255);
-}
 
